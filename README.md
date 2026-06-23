@@ -1,5 +1,7 @@
 # Game-Theoretic Autonomous Driving Simulator with Safety Filter (CBF)
 
+![Otonom Sollama Simülasyonu Demo Videosu](otonom_sollama.gif)
+
 Bu proje; derin öğrenme "kara kutularına" (black-box) bağlı kalmadan, tamamen açıklanabilir (**explainable AI**) ve deterministik kurallarla çalışan modüler bir otonom sürüş ve otoban sollama simülatörüdür. 
 
 Proje, endüstri standardı olan **Sense-Plan-Act (Algıla-Planla-Uygula)** mimarisi üzerine inşa edilmiştir ve her katman birbirinden tamamen izole (decoupled) durumdadır.
